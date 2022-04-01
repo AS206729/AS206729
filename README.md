@@ -1,9 +1,11 @@
 # AS206729
-> AS206729 is an Autonomous System Number(ASN). It was founded on March 28, 2022. 
+> AS206729 is an `Autonomous System Number`(ASN). It was founded on March 28, 2022. 
 
-> Offical Website: [https://as206729.com/](https://as206729.com/) 
+> Offical Website: [AS206729.COM](https://as206729.com/) 
 
 > Owner: [Vincent Young](https://t.me/missuo)
+
+> Broadcasted IP: `2401:95c0:f001::1/128`
 
 ## AS Info
 ~~~
@@ -39,7 +41,7 @@ Average AS Path Length (v6): 4.134
 ![0momOV](https://s3.missuo.me/images/0momOV.jpg)
 
 ## Prefixes v6
-2401:95c0:f001::/48
+`2401:95c0:f001::/48`
 
 ## Peers v6
 |  Rank   | Description  | IPV4 | Peer|
@@ -97,7 +99,7 @@ source:         RIPE # Filtered
 ## IRR
 ~~~
 RIPE
-aut-num:    AS206729
+aut-num:        AS206729
 as-name:        YANGYINGTAO
 org:            ORG-YA156-RIPE
 sponsoring-org: ORG-HL197-RIPE
