@@ -1,7 +1,7 @@
 # AS206729
 AS206729 is an Autonomous System Number(ASN). It was founded on March 28, 2022.
 
-## AS206729 Info
+## AS Info
 ~~~
 Country of Origin: China
 
@@ -30,3 +30,14 @@ Average AS Path Length (all): 4.134
 Average AS Path Length (v4): 0.000
 Average AS Path Length (v6): 4.134
 ~~~
+
+## AS206729 IPv6 Route Propagation
+![0momOV](https://s3.missuo.me/images/0momOV.jpg)
+
+## Prefixes v6
+2401:95c0:f001::/48
+
+## Peers v6
+|  Rank   | Description  | IPV4 | Peer|
+|  ----  | ----  | ---- | ---- |
+| 1  | FranTech Solutions | | AS53667|
