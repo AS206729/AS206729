@@ -3,8 +3,6 @@
 
 > Offical Website: [AS206729.COM](https://as206729.com/) 
 
-> Owner: [Vincent Young](https://t.me/missuo)
-
 > Broadcasted IP: `2401:95c0:f001::1/128`
 
 ## AS Info
